@@ -6,4 +6,12 @@ public class TestClass {
         this.a = C;
         this.b = D;
     }
+
+    public double getA() {
+        return this.a;
+    }
+    public double getB() {
+        return this.b;
+    }
+    
 }
