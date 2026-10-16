@@ -7,6 +7,7 @@ public class TestClass {
         this.b = D;
     }
 
+    /** :) :) :) :) if yk yk  **/
     public double getA() {
         return this.a;
     }
