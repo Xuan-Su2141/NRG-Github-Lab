@@ -14,5 +14,7 @@ public class TestClass {
     public double getB() {
         return this.b;
     }
-    
+    public void newA(double newA) {
+        this.a = newA;
+    }
 }
